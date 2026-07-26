@@ -7,10 +7,12 @@
 
 Participación en el Cisco Americas Cyber Games 2026 (CyberGames Ethical Hacker, español), realizado el 30 de junio de 2026.
 
+![Reporte de puntaje final](./evidence/score-report.png)
+
 ## Resultado
 
 - 37/37 flags, 3/3 misiones, 980 puntos, 0 pistas.
-- Uno de 186 estudiantes que completaron el CTF, entre 1.031 participantes de 21 países.
+- Uno de 186 estudiantes que completaron el CTF en 3 horas del evento, entre 1.031 participantes de 21 países.
 
 ## Misiones
 
@@ -21,10 +23,13 @@ Participación en el Cisco Americas Cyber Games 2026 (CyberGames Ethical Hacker,
 | [3. Documentación](./writeups/mission-3-documentacion.md) | Análisis forense de reportes reales | 250 | 10 |
 
 ## Categorías
+
 Criptografía, forense digital, redes, vulnerabilidades web.
 
 ## Herramientas
+
 Ver [tools_used.md](./tools_used.md).
 
 ## Nota
+
 Los writeups describen la metodología sin publicar respuestas literales de flags.
