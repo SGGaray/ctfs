@@ -17,4 +17,4 @@ Explotación web (SQLi, CSRF, forjado de sesiones), forense digital (análisis d
 
 Estudiante de Ciberdefensa y Psicología Social.
 
-Portfolio: [sggaray.vercel.app](https://sggaray.com)
+Portfolio: [sggaray.com](https://sggaray.com)
