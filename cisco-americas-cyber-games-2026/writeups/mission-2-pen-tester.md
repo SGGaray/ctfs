@@ -1,6 +1,6 @@
 # Misión 2 - Pen Tester
 
-350 puntos · 14 flags · laboratorio práctico en Kali Linux.
+Laboratorio práctico en Kali Linux.
 
 Trabajo hands-on sobre una VM provista, cubriendo reconocimiento de red, explotación web y ataques inalámbricos.
 

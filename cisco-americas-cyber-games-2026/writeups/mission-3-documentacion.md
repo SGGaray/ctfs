@@ -1,6 +1,6 @@
 # Misión 3 - Documentación
 
-250 puntos · 10 flags · análisis documental forense.
+Análisis documental forense.
 
 Extracción de datos puntuales a partir de dos informes reales de seguridad, ejercitando la lectura dirigida de documentación técnica extensa.
 

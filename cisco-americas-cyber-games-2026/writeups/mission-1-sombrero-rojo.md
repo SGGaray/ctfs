@@ -1,6 +1,6 @@
 # Misión 1 - Sombrero Rojo
 
-370 puntos · 13 flags · categoría conceptual/teórica.
+Categoría conceptual/teórica.
 
 Serie de preguntas de opción única sobre fundamentos de seguridad ofensiva y defensiva, resueltas por razonamiento. La misión aplica una penalización del 20% por intento incorrecto, así que conviene descartar por eliminación y confirmar el término técnico exacto antes de enviar.
 
